@@ -1,0 +1,19 @@
+.banner {
+  background-image: linear-gradient(-225deg, #E68ABE 0%, #4F628E 50%), url(../../images/background.jpg);  
+  color: white;
+  padding: 150px 0px; 
+	background-size: cover;
+	background-position: center;
+  opacity: 0.8;
+}
+
+.banner h1 {
+  font-size: 80px;
+  font-family: pattaya;
+}
+
+.banner h2 {
+  font-size: 20px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+}
